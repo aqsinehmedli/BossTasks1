@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Admin_User\Admin_User\bin\Debug\net8.0\Admin_User.exe
+C:\Users\User\source\repos\Admin_User\Admin_User\bin\Debug\net8.0\Admin_User.deps.json
+C:\Users\User\source\repos\Admin_User\Admin_User\bin\Debug\net8.0\Admin_User.runtimeconfig.json
+C:\Users\User\source\repos\Admin_User\Admin_User\bin\Debug\net8.0\Admin_User.dll
+C:\Users\User\source\repos\Admin_User\Admin_User\bin\Debug\net8.0\Admin_User.pdb
+C:\Users\User\source\repos\Admin_User\Admin_User\obj\Debug\net8.0\Admin_User.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Admin_User\Admin_User\obj\Debug\net8.0\Admin_User.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Admin_User\Admin_User\obj\Debug\net8.0\Admin_User.AssemblyInfo.cs
+C:\Users\User\source\repos\Admin_User\Admin_User\obj\Debug\net8.0\Admin_User.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Admin_User\Admin_User\obj\Debug\net8.0\Admin_User.dll
+C:\Users\User\source\repos\Admin_User\Admin_User\obj\Debug\net8.0\refint\Admin_User.dll
+C:\Users\User\source\repos\Admin_User\Admin_User\obj\Debug\net8.0\Admin_User.pdb
+C:\Users\User\source\repos\Admin_User\Admin_User\obj\Debug\net8.0\Admin_User.genruntimeconfig.cache
+C:\Users\User\source\repos\Admin_User\Admin_User\obj\Debug\net8.0\ref\Admin_User.dll
